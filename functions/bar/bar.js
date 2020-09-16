@@ -23,7 +23,7 @@ exports.handler = async (event, context) => {
   })
  
 
-  var imagepath = path.resolve(process.env.LAMBDA_TASK_ROOT, 'src/functions/image', 'netlify.png')
+  var imagepath = path.resolve(process.env.LAMBDA_TASK_ROOT, 'src/functions/bar', 'netlify.png')
 
   const content = fs.readFileSync(imagepath)
   return {

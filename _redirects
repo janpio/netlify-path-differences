@@ -1,2 +1,2 @@
-/foo  /.netlify/functions/foo  200
-/bar  /.netlify/functions/bar  200
+/foo.png  /.netlify/functions/foo  200
+/bar.png  /.netlify/functions/bar  200
