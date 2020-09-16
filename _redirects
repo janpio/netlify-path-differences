@@ -1,2 +1,2 @@
-/foo.png  /.netlify/functions/foo  200
-/bar.png  /.netlify/functions/bar  200
+/no-node_modules.png  /.netlify/functions/no-node_modules  200
+/with-node_modules.png  /.netlify/functions/with-node_modules  200
