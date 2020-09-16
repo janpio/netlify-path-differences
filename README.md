@@ -1,0 +1,1 @@
+# netlify-path-differences
