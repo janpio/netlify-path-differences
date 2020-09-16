@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/janpio/netlify-path-differences#readme",
   "dependencies": {
-    "@prisma/client": "^2.7.1"
+    "@prisma/client": "^2.7.1",
+    "date-fns": "^2.16.1"
   }
 }
