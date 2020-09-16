@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require("path")
-import { format, compareAsc } from 'date-fns'
+const { format, compareAsc } = require('date-fns')
 
 exports.handler = async (event, context) => {
 

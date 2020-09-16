@@ -1,7 +1,6 @@
 const fs = require('fs')
 const path = require("path")
 const { PrismaClient } = require('@prisma/client')
-import { format, compareAsc } from 'date-fns'
 
 exports.handler = async (event, context) => {
 
